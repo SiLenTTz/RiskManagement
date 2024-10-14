@@ -10,7 +10,7 @@
     "@sap-cloud-sdk/resilience": "3.12.0",
     "@sap/cds-dk": "^8.3.0",
     "express": "^4",
-    "mbt": "^1.2.31"
+    "mbt": "^1.2.33"
   },
   "scripts": {
     "start": "cds-serve"
